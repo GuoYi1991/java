@@ -1,7 +1,10 @@
 package javaday2;
 
+
 public class lazyLoad {
-private lazyLoad(){}
+//
+	private lazyLoad(){}
+
 
 private static lazyLoad instance=null;
 // private static  lazyLoad instance= new lazyLoad() ;
