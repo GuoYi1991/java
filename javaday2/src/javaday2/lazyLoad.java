@@ -3,6 +3,7 @@ package javaday2;
 
 public class lazyLoad {
 //
+	//2222
 	private lazyLoad(){}
 
 
